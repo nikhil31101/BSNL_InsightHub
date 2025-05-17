@@ -1,0 +1,10 @@
+boto3
+streamlit
+faiss-cpu
+python-dotenv
+langchain
+langchain_community
+langchain_aws
+PyMuPDF
+tiktoken
+streamlit-chat
