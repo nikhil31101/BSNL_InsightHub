@@ -5,6 +5,10 @@ python-dotenv
 langchain
 langchain_community
 langchain_aws
-PyMuPDF
+Pdfplumber
 tiktoken
 streamlit-chat
+botocore
+fastapi
+pydantic
+uvicorn
